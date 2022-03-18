@@ -1,0 +1,88 @@
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: #59d6df;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+#color1{
+    display: flex;
+    justify-content: center;
+    width:100px;
+    height: 50px;
+    background-color: red;
+    margin-right: 10px;
+}
+
+
+button{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   
+}
+
+#color2{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(235, 184, 18);
+    margin-right: 10px;
+}
+#color3{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(69, 182, 17);
+    margin-right: 10px;
+}
+#color4{
+    display: flex;
+    justify-content: center;
+    width: 100px;
+    height: 50px;
+    background-color: rgb(73, 157, 206);
+    margin-right: 10px;
+}
+
+
+.first{
+    display: flex;
+    flex-direction: row;
+}
+.second{
+    display: flex;
+    flex-direction: row;
+}
+
+.third{
+    display: flex;
+    flex-direction: row;
+}
+.fourth{
+    display: flex;
+    flex-direction: row;
+}
+
+span{
+    display: flex;
+    flex-direction: column;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(247, 243, 220);
+}
+
+#message{
+    color:black;
+    
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
